@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.oasis-open.org/docbook/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<book xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Vamsi's Super Awesome Book</title>
+        <author>
+            <orgname>Loyola</orgname>
+            <email>vnadimpalli@luc.edu</email>
+        </author>
+    </info>
+    <toc>
+        <title>Table Of Contents</title>
+        <tocchap>
+            <tocentry>Chapter 1</tocentry>
+            <tocentry>Chapter 2</tocentry>
+        </tocchap>
+    </toc>
+    <part>
+        <title>First Part</title>
+        <subtitle>Subtitle of First Part</subtitle>
+        <chapter>
+            <title>Chapter 1</title>
+            <sect1>
+                <title>Section 1</title>
+                <para>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                        deserunt mollit anim id est laborum.
+                    </para>
+            </sect1>
+            <sect1>
+                    <title>Section 2</title>
+                    <para>
+                        Donec viverra neque in diam facilisis fringilla. Cras sodales interdum dignissim. Praesent tincidunt lectus ac urna consequat aliquet. Praesent porttitor dolor vel lacus ultricies vulputate. Aenean metus risus, varius eget dignissim id, venenatis vel leo. Maecenas elementum, sapien at pretium sodales, lectus urna blandit lectus, ac interdum velit enim vel nisi. Sed dignissim egestas erat vitae cursus. Etiam at turpis in ante feugiat laoreet ac vel felis. Suspendisse volutpat egestas nisl eu sagittis. Cras at mauris enim, scelerisque ullamcorper lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                    </para>
+                
+            </sect1>
+        </chapter>
+        <chapter>
+                <title>Chapter 2</title>
+            <sect1>
+                    <title>Section 1</title>
+                    <para>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+                        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                        deserunt mollit anim id est laborum.
+                    </para>
+            </sect1>
+            <sect1>
+                    <title>Section 2</title>
+                    <para>
+                        Donec viverra neque in diam facilisis fringilla. Cras sodales interdum dignissim. Praesent tincidunt lectus ac urna consequat aliquet. Praesent porttitor dolor vel lacus ultricies vulputate. Aenean metus risus, varius eget dignissim id, venenatis vel leo. Maecenas elementum, sapien at pretium sodales, lectus urna blandit lectus, ac interdum velit enim vel nisi. Sed dignissim egestas erat vitae cursus. Etiam at turpis in ante feugiat laoreet ac vel felis. Suspendisse volutpat egestas nisl eu sagittis. Cras at mauris enim, scelerisque ullamcorper lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                    </para>
+            </sect1>
+        </chapter>
+    </part>
+    <index>
+        <title>Index</title>
+        <indexterm>
+            <primary>Lorem Ipsum</primary>
+        </indexterm>
+        <indexterm>
+            <primary></primary>
+        </indexterm>
+    </index>
+</book>
